@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\DEEPTANSHU REDDY\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NewProject3\\ATRSwebApi1\\ATRSwebApi1.csproj",
+      "projectUniqueName": "C:\\RaviProjectClone\\NewProject3\\ATRSwebApi1.csproj",
       "projectName": "ATRSwebApi1",
-      "projectPath": "D:\\NewProject3\\ATRSwebApi1\\ATRSwebApi1.csproj",
-      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\NewProject3\\ATRSwebApi1\\obj\\",
+      "projectPath": "C:\\RaviProjectClone\\NewProject3\\ATRSwebApi1.csproj",
+      "packagesPath": "C:\\Users\\DEEPTANSHU REDDY\\.nuget\\packages\\",
+      "outputPath": "C:\\RaviProjectClone\\NewProject3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DEEPTANSHU REDDY\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -63,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
